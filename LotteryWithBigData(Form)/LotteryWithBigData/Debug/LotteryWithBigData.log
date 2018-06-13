@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+MyForm.cpp(8): warning C4551: 函式呼叫遺漏引數清單
+  MyForm.obj : Managed 程式碼存在時不支援 /DEBUG:FASTLINK; 正在以 /DEBUG:FULL 重新啟動連結
+  LotteryWithBigData.vcxproj -> C:\Users\A5206572\Downloads\LotteryWithBigData(Form)\Debug\LotteryWithBigData.exe
+  LotteryWithBigData.vcxproj -> C:\Users\A5206572\Downloads\LotteryWithBigData(Form)\Debug\LotteryWithBigData.pdb (Partial PDB)
